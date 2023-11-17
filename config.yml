@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://ablanz.org/" 
+title: Alkis Blanz
 paginate: 20
 theme: PaperMod
 
@@ -25,7 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
+    description: "I am a post-doctoral researcher at the Chair of Macroeconomics at the University of Leipzig. My research focuses on the intersection between climate change, macroeconomics and inequality.
 consequat."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
@@ -50,8 +50,8 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Alkis Blanz   
+          subtitle: "I am a post-doc at the chair of macroeconomics at the University of Leipzig. My research focuses on the Macroeconomics of Climate Change and Policy. "
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -61,33 +61,13 @@ consequat."
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+       
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: mailto:alkis.blanz@uni-leipzig.de
+        
 
     assets:
         disableHLJS: true
